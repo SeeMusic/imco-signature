@@ -1,4 +1,3 @@
 module.exports = {
-  publicPath:
-    process.env.NODE_ENV === "production" ? "/kanjian-signature/" : "/"
+  publicPath: process.env.NODE_ENV === "production" ? "/imco-signature/" : "/"
 };
